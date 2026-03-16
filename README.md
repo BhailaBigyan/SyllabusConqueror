@@ -46,7 +46,7 @@ Syllabus Conqueror is a high-performance, visually stunning desktop application 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DeepFocusStudios/SyllabusConqueror.git
+   git clone https://github.com/BhailaBigyan/SyllabusConqueror.git
    cd SyllabusConqueror
    ```
 
@@ -77,7 +77,10 @@ Syllabus Conqueror is a high-performance, visually stunning desktop application 
 
 ---
 
+## ScreenShots
+![screentshot0](image-1.png)
+![screenshot1](image.png)
 ## 📜 License & Credits
 
-Developed by **Deep Focus Studios**. All rights reserved.
+Developed by **Bigyan Bhaila**. All rights reserved.
 Built with ❤️ for learners who want to conquer their syllabus.
